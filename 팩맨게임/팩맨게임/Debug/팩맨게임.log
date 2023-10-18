@@ -1,0 +1,16 @@
+﻿  Ghost.cpp
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(37,34): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(42,35): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(47,35): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(52,35): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(174,46): warning C4244: '인수': 'float'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(175,62): warning C4244: '인수': 'float'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(176,51): warning C4244: '인수': 'float'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(177,63): warning C4244: '인수': 'float'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(271,43): warning C4244: '+=': 'double'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(277,44): warning C4244: '-=': 'double'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(283,44): warning C4244: '-=': 'double'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(289,44): warning C4244: '+=': 'double'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(294,39): warning C4244: '=': 'float'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooyoung\source\repos\팩맨게임\팩맨게임\Ghost.cpp(298,23): warning C4244: '=': 'float'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  팩맨게임.vcxproj -> C:\Users\wooyoung\source\repos\팩맨게임\Debug\팩맨게임.exe
